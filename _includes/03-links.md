@@ -1,1 +1,1 @@
-[my home] (http://www.stonesee.com)
+[my home](http://www.stonesee.com)
