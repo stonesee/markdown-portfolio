@@ -1,4 +1,4 @@
-1 Shanghai
-2 Beijing
-  1 London
-  2 Paris
+1. Shanghai
+2. Beijing
+  1. London
+  2. Paris
